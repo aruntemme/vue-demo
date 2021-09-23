@@ -1,5 +1,6 @@
 # demo-app
 
+app hosted in surge ---- (here)[https://homely-queen-vue-demo.surge.sh/]
 ## Project setup
 ```
 npm install
